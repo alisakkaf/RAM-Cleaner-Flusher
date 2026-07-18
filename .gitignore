@@ -1,0 +1,23 @@
+# Ignore release packages
+*.zip
+*.rar
+*.7z
+
+# Ignore internal guides (user request)
+github_release_guide.md
+check_syntax.ps1
+save_bom.ps1
+test_compile.ps1
+test_metrics.ps1
+test_report.ps1
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Ignore logs
+*.log
