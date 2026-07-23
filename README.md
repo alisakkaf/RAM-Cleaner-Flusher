@@ -1,3 +1,19 @@
+> [!IMPORTANT]
+> **🚀 Looking for the Ultimate Windows 11 Desktop GUI Application [EXE] with 40% - 60% Memory Reclamation And More?**  
+> Upgrade to **[RAM Cleaner & Flusher Pro Suite](https://github.com/alisakkaf/RAM-Cleaner-Flusher-Pro)** — an enterprise-grade native Win32 C++ desktop application featuring **Windows 11 Fluent 2.0 Dark & Light themes**, **Svchost Windows Service name resolution**, **App Launch Game & Software Booster**, **Process Inspector & Group Diagnostics**, **Automated Background Threshold Rules**, **System Tray Mode**, **Silent Auto-Updater**, and **100% Full Compatibility across Windows 7, 8, 10, 11 (21H2-26H1) & Windows Server**!
+>
+> <p align="left">
+>   <a href="https://github.com/alisakkaf/RAM-Cleaner-Flusher-Pro">
+>     <img src="https://img.shields.io/badge/⚡_GET_THE_PRO_GUI_VERSION_FULL_FREE-Reclaim_40%25--60%25_RAM_Now-0078d4?style=for-the-badge&logo=windows11&logoColor=white" alt="RAM Cleaner Pro Suite GUI">
+>   </a>
+>   &nbsp;&nbsp;
+>   <a href="https://github.com/alisakkaf/RAM-Cleaner-Flusher-Pro/releases/latest">
+>     <img src="https://img.shields.io/badge/📦_Download_Pro_Suite_FULL_FREE-Direct_Release_For_Free-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Download Pro Release For FREE">
+>   </a>
+> </p>
+
+---
+
 # 🚀 RAM Cleaner & Flusher (CLI & App Booster Suite)
 
 A professional, enterprise-grade, high-performance, and lightweight memory optimization utility for Windows. Unlike generic memory cleaners that consume system resources or rely on slow and cached WMI metrics, this tool directly P/Invokes native Windows Win32 APIs (**`GlobalMemoryStatusEx`**, **`NtSetSystemInformation`**, and **`EmptyWorkingSet`**) to safely, accurately, and instantaneously reclaim standby, modified, and working set memory.
