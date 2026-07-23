@@ -7,9 +7,6 @@
 >     <img src="https://img.shields.io/badge/⚡_GET_THE_PRO_GUI_VERSION_FULL_FREE-Reclaim_40%25--60%25_RAM_Now-0078d4?style=for-the-badge&logo=windows11&logoColor=white" alt="RAM Cleaner Pro Suite GUI">
 >   </a>
 >   &nbsp;&nbsp;
->   <a href="https://github.com/alisakkaf/RAM-Cleaner-Flusher-Pro/releases/latest">
->     <img src="https://img.shields.io/badge/📦_Download_Pro_Suite_FULL_FREE-Direct_Release_For_Free-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Download Pro Release For FREE">
->   </a>
 > </p>
 
 ---
