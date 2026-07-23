@@ -6,7 +6,7 @@ Developed by **AliSakkaf**. Connect with me on [GitHub](https://github.com/alisa
 
 ---
 
-## 📌 What's New in Version 1.1 Pro
+## 📌 What's New in Version 1.1 
 
 * **🎮 Expanded 9-Option Interactive Menu**: New interactive console dashboard featuring direct choices for App Launch Booster (Option 6), Exclusion Protection Manager (Option 7), Auto Memory Threshold Check (Option 8), and Exit (Option 9).
 * **🚀 App Launch Game & Software Booster**: Pre-purges system RAM and launches any target application with **`HIGH_PRIORITY_CLASS`** priority to eliminate micro-stutters in open-world games and heavy IDEs.
